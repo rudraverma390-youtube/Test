@@ -1,112 +1,112 @@
-adtago.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
-analytics.s3.amazonaws.com
-pagead2.googlesyndication.com
-adservice.google.com
-pagead2.googleadservices.com
-afs.googlesyndication.com
-stats.g.doubleclick.net
-ad.doubleclick.net
-static.doubleclick.net
-m.doubleclick.net
-mediavisor.doubleclick.net
-ads30.adcolony.com
-adc3-launch.adcolony.com
-events3alt.adcolony.com
-wd.adcolony.com
-static.media.net
-adservetx.media.net
-analytics.google.com
-click.googleanalytics.com
-google-analytics.com
-ssl.google-analytics.com
-adm.hotjar.com
-identify.hotjar.com
-insights.hotjar.com
-script.hotjar.com
-surveys.hotjar.com
-mouseflow.com
-cdn.mouseflow.com
-o2.mouseflow.com
-tools.mouseflow.com
-cdn-test.mouseflow.com
-freshmarketer.com
-claritybt.freshmarketer.com
-fwtracks.freshmarketer.com
-api.luckyorange.com
-realtime.luckyorange.com
-cdn.luckyorange.com
-w1.luckyorange.com
-upload.luckyorange.net
-cs.luckyorange.net
-settings.luckyorange.net
-stats.wp.com
-notify.bugsnag.com
-sessions.bugsnag.com
-api.bugsnag.com
-app.bugsnag.com
-browser.sentry-cdn.com
-app.getsentry.com
-pixel.facebook.com
-an.facebook.com
-static.ads-twitter.com
-ads-api.twitter.com
-ads.linkedin.com
-analytics.pointdrive.linkedin.com
-ads.pinterest.com
-log.pinterest.com
-analytics.pinterest.com
-trk.pinterest.com
-ads.youtube.com
-events.reddit.com
-events.redditmedia.com
-ads.yahoo.com
-analytics.yahoo.com
-geo.yahoo.com
-udc.yahoo.com
-udcm.yahoo.com
-partnerads.ysm.yahoo.com
-analytics.query.yahoo.com
-log.fc.yahoo.com
-gemini.yahoo.com
-extmaps-api.yandex.net
-adtech.yahooinc.com
-appmetrica.yandex.ru
-adfstat.yandex.ru
-metrika.yandex.ru
-offerwall.yandex.net
-adfox.yandex.ru
-auction.unityads.unity3d.com
-webview.unityads.unity3d.com
-config.unityads.unity3d.com
-adserver.unityads.unity3d.com
-iot-eu-logser.realme.com
-iot-logser.realme.com
-bdapi-in-ads.realmemobile.com
-api.ad.xiaomi.com
-data.mistat.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-tracking.rus.miui.com
-adsfs.oppomobile.com
-adx.ads.oppomobile.com
-ck.ads.oppomobile.com
-data.ads.oppomobile.com
-grs.hicloud.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logbak.hicloud.com
-click.oneplus.cn
-iadsdk.apple.com
-metrics.icloud.com
-metrics.mzstatic.com
-api-adservices.apple.com
-books-analytics-events.apple.com
-weather-analytics-events.apple.com
-notes-analytics-events.apple.com
-samsungads.com
-smetrics.samsung.com
-samsung-com.112.2o7.net
-analytics-api.samsunghealthcn.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
+0.0.0.0 static.media.net
+0.0.0.0 adservetx.media.net
+0.0.0.0 analytics.google.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 mouseflow.com
+0.0.0.0 cdn.mouseflow.com
+0.0.0.0 o2.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 settings.luckyorange.net
+0.0.0.0 stats.wp.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 log.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 trk.pinterest.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 geo.yahoo.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 partnerads.ysm.yahoo.com
+0.0.0.0 analytics.query.yahoo.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 gemini.yahoo.com
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logservice.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 metrics.icloud.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 analytics-api.samsunghealthcn.com
